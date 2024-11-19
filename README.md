@@ -36,10 +36,3 @@ Use the getCordinates() methods to get (x,y) coordinates
 Add a setCordinates() method to update coordinates.
 Use a C# random library to move the the Actors in a random direction in their plane, e.g., Archers move randomly left/right
 Investigate default parameters for contrstructors
-
-
-
-
-
-
-
